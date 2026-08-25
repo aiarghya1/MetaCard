@@ -81,14 +81,8 @@ export default function Home() {
         </div>
       </section>
 
-      <section className="process shell" aria-labelledby="process-title">
-        <div><p className="section-kicker">Simple by design</p><h2 id="process-title">One URL. Three quick steps.</h2></div>
-        <ol>
-          <li><span>01</span><div><strong>Paste</strong><p>Enter any public webpage URL.</p></div></li>
-          <li><span>02</span><div><strong>Parse</strong><p>We safely extract and normalize its metadata.</p></div></li>
-          <li><span>03</span><div><strong>Preview</strong><p>Get a share-ready card instantly.</p></div></li>
-        </ol>
-      </section>
+
+
 
       <footer className="shell"><span>MetaCard</span><p>Built for fast, safe link previews.</p></footer>
     </main>
