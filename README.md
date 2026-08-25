@@ -2,6 +2,8 @@
 
 > Turn any public webpage URL into a clean, useful metadata card.
 
+🔗 **Live Demo:** [metacard-nine.vercel.app](https://metacard-nine.vercel.app)
+
 MetaCard is a full-stack web application that fetches, normalizes, and previews Open Graph and meta tag data from any public URL. Paste a link, get a polished preview card — perfect for social sharing validation, content auditing, or building link preview features.
 
 ![MetaCard](public/og.png)
